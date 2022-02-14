@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="gpu24.createLicense.create_qisu.*" />
+          <option value="gpu24.getLicense.get_qisu.*" />
+          <option value="list.__getitem__" />
+          <option value="ArangoDB.search_kb_arango.config" />
+          <option value="ArangoDB.search_kb_arango.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
