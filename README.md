@@ -6,6 +6,7 @@
 
 - Windows+夜神模拟器+Appium：[环境部署](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows%2B%E5%A4%9C%E7%A5%9E%2BAppium%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.md)
 - ScrapydWeb集群管理：[ScrapydWeb](https://github.com/my8100/scrapydweb/blob/master/README_CN.md)
+- Windows + mumu模拟器 + Fiddler：[环境部署](https://github.com/Threekiii/Scrapy-Spiders)
 
 ### 音乐爬虫
 
