@@ -4,8 +4,8 @@
 
 ### 环境部署
 
-- Windows+夜神模拟器+Appium：[环境部署](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows%2B%E5%A4%9C%E7%A5%9E%2BAppium%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.md)
 - ScrapydWeb集群管理：[ScrapydWeb](https://github.com/my8100/scrapydweb/blob/master/README_CN.md)
+- Windows+夜神模拟器+Appium：[环境部署](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows%2B%E5%A4%9C%E7%A5%9E%2BAppium%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.md)
 - Windows + mumu模拟器 + Fiddler：[环境部署](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows%20%2B%20mumu%E6%A8%A1%E6%8B%9F%E5%99%A8%20%2B%20Fiddler.md)
 
 ### 音乐爬虫

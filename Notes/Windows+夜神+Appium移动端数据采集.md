@@ -1,4 +1,4 @@
-# Windows + 夜神模拟器 + Appium 移动端模拟器
+# Windows + 夜神模拟器 + Appium
 
 ##### 转载请注明出处
 
@@ -9,7 +9,7 @@
 - 点击进入下载页面https://nodejs.org/zh-cn/。
 - 下载安装包并安装。
 
-![1](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/1-1591754209098.PNG?raw=true)
+![1](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/1-1591754209098.PNG?raw=true)
 
 - 安装完成后，在CMD中输入`node -v`，显示版本号则表示安装成功。
 
@@ -23,7 +23,7 @@
 - 点击进入下载页面https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html。
 - 注册Oracle账号，下载windows ×86安装包并安装，默认安装位置为：`C:\Program Files (x86)\Java`。
 
-![2](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/2.PNG?raw=true)
+![2](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/2.PNG?raw=true)
 
 - 添加环境变量。
 
@@ -58,7 +58,7 @@
 - 点击进入下载页面 https://www.androiddevtools.cn/。
 - 点击AndroidSDK工具，选择SDK Tools，下载安装包并安装。
 
-![3](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/3.png?raw=True)
+![3](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/3.png?raw=True)
 
 - 添加环境变量。
 
@@ -119,7 +119,7 @@
 - 将Android SDK目录下`C:\Users\xbei\AppData\Local\Android\android-sdk\platform-tools`中的`adb.exe`复制两份，其中一份改名为`nox_adb.exe`。
 - 将复制的`adb.exe`和改名的`nox_adb.exe`复制到夜神模拟器目录`D:\Spider\Nox\bin`下，覆盖原文件。
 
-![4](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/4-1591756541628.PNG?raw=True)
+![4](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/4-1591756541628.PNG?raw=True)
 
 - 进入夜神模拟器，打开`设置`，连点五次`关于平板电脑`中的`版本号`，将出现`开发者选项`，进入`开发者选项`，勾选`USB调试`。
 
@@ -164,11 +164,11 @@
 
 - 打开Appium，使用默认Host+Port，点击`Start Server`。
 
-![5](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/5.PNG?raw=True)
+![5](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/5.PNG?raw=True)
 
 - 点击右上角的放大镜进行配置。
 
-![6](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/6.PNG?raw=True)
+![6](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/6.PNG?raw=True)
 
 - Appium的配置参数包括以下内容：
   - `platformName`：系统
@@ -200,11 +200,11 @@
 
 - 在Desired Capabilities处填写参数，点击`Start Session`。
 
-![7](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/7-1591758717236.PNG?raw=True)
+![7](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/7-1591758717236.PNG?raw=True)
 
 - 可在Appium中进行元素定位，找到需要操作（点击、传参等）的元素，进行自动化操作。
 
-![8](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/8-1591758865585.PNG?raw=True)
+![8](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/8-1591758865585.PNG?raw=True)
 
 ## 编写数据处理+自动化程序
 
@@ -278,7 +278,7 @@ def slide_app(page):
 
 - 在配置夜神模拟器的网络代理时，指定不同端口（如8080/8081）。
 
-![9](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/9.PNG?raw=True)
+![9](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/9.PNG?raw=True)
 
 - 在启动mitmproxy时，指定不同端口和不同数据处理程序`extract.py`。
 
@@ -295,7 +295,7 @@ def slide_app(page):
 
 - 启动Appium时在Advanced中配置`Server Port`，指定不同端口。
 
-![捕获](https://github.com/Threekiii/Scrapy-Spiders/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/捕获.PNG?raw=True)
+![捕获](https://github.com/Threekiii/Awesome-Scrapy/blob/master/Notes/Windows+%E5%A4%9C%E7%A5%9E+Appium%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%96%87%E6%A1%A3.assets/捕获.PNG?raw=True)
 
 - 在Appium自动化程序中指定不同`模拟器id`和`Appium Server`。
 
