@@ -17,6 +17,7 @@
 ### 安全平台爬虫
 
 - 安全牛 [Aqniu](https://github.com/Threekiii/Awesome-Scrapy/tree/master/Aqniu)
+- CNVD [CNVD](https://github.com/Threekiii/Awesome-Scrapy/tree/master/CNVD)
 
 ### 音乐爬虫
 

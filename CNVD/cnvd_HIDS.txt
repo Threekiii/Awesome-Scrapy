@@ -1,0 +1,8 @@
+title	link	\level	click	comment	collect	pubtime
+OSSEC-HIDS ossec-alert消息拒绝服务漏洞	https://www.cnvd.org.cn//flaw/show/CNVD-2020-04645	高	617	0	0	2020-02-11
+OSSEC-HIDS syscheck消息拒绝服务漏洞	https://www.cnvd.org.cn//flaw/show/CNVD-2020-04644	高	628	0	0	2020-02-11
+OSSEC-HIDS代码问题漏洞	https://www.cnvd.org.cn//flaw/show/CNVD-2020-04126	低	1337	0	0	2020-02-07
+OSSEC-HIDS路径遍历漏洞	https://www.cnvd.org.cn//flaw/show/CNVD-2020-04125	低	1281	0	0	2020-02-07
+OSSEC-HIDS服务器组件缓冲区溢出漏洞（CNVD-2020-04124）	https://www.cnvd.org.cn//flaw/show/CNVD-2020-04124	高	1327	0	0	2020-02-07
+OSSEC-HIDS服务器组件缓冲区溢出漏洞	https://www.cnvd.org.cn//flaw/show/CNVD-2020-04123	中	1250	0	0	2020-02-07
+Apple Mac OS X 'IOHIDSecurePromptClient'远程拒绝服务漏洞	https://www.cnvd.org.cn//flaw/show/CNVD-2014-06574	中	1471	0	0	2014-10-10
